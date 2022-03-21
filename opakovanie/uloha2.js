@@ -16,4 +16,5 @@ let mesiacM = 5;
 let mesiacZ = 4;
 
 let rozdiel = (rokZ * 12 + mesiacZ) - (rokM * 12 + mesiacM);
+
 console.log(`${menoM} a ${menoZ} su od seba vekovo vzdialeni ${rozdiel} mesiacov.`);
