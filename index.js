@@ -1,1 +1,1 @@
-import './opakovanie/uloha2.js';
+import './opakovanie/uloha3.js';
